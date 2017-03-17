@@ -25,7 +25,7 @@ SECRET_KEY = 'n__r9ui^lq!6-p01)$d7)-dstjuc379dunmo9&d1hpen33m*&f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ravak.pythonanywhere.com]
 
 
 # Application definition
